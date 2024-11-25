@@ -1,0 +1,25 @@
+Database					Database
+
+Table						Collections
+
+Rows						Documents
+
+COlumns					Fields
+
+Primary Key				Primary Key(_id)
+
+Join						Embedded	Document
+
+Server (Background Service)	Server (Background Service) - mongod	
+
+Sql Plus / SSMS					Mongo Shell / Compass
+
+-------------------------------------
+
+
+Mongodb Package
+
+Monk Package
+
+Mongoose (Object -> Data)
+
